@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eakALnNQqbYDsocv9wTzKO1XCHCpmHBeJpAZqR5TvkU2WhYCF1FwHzDsLCZrO14SmDWpqgmPUD5l84dUXkpqsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\ACTrainer\\ACTrainer\\ACTrainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\memory.dll.x64\\1.2.21\\memory.dll.x64.1.2.21.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
